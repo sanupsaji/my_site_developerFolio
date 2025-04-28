@@ -20,10 +20,10 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
+  username: "Sanu Polachira Saji",
+  title: "Hi all, I'm Sanu",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "DevOps-focused IT professional with over 14 years of experience in system administration, infrastructure management, and ERP support, now transitioning into cloud and DevOps roles. Recently trained in AWS, Terraform, Kubernetes, and CI/CD pipeline automation. Demonstrates a strong foundation in both Linux and Windows environments, with a proactive approach to learning, collaboration, and delivering reliable digital services."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
